@@ -5,6 +5,7 @@ These are my assignments made at this intensive 6 month program called FAB ACADE
 It was an amazing experience where I've learnt (after hours and hours of personal work...) :
  
  1. How to use a Fab Lab’s digital fabrication tools for rapid prototyping like: 
+ 
   - Epilog Mini Lasercutter
   - Roland MDX-20 Milling Machine
   - 3D printer
@@ -16,7 +17,7 @@ It was an amazing experience where I've learnt (after hours and hours of persona
 4. Molding and casting
 5. 3D scanning and printing
 
-Thanks and feel free to use it and contact me: xavidominguez@gmail.com
+Thanks and feel free to use it and contact me: @xavidominguez / xavidominguez@gmail.com
 
 
 
